@@ -1,0 +1,22 @@
+input[type=text], select {
+    width: 300px;
+    padding: 6px 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+textarea {
+    width: 300px;
+    padding: 150px 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    width: 100px;
+    margin: 12px;
+}
+
+.pad-me {
+    padding: 12px
+}
